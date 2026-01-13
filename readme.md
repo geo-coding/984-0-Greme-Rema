@@ -50,7 +50,7 @@
     --|
       |---> 
             Kullosë (3)      55
-            Shtëpi-Ndërtesë  93
+            Shtëpi-Ndërtesë  9      3
             Oborr           500
             Gjithsej:       648
 
