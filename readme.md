@@ -170,3 +170,20 @@
 
 
 
+# kerkesat
+
+```
+007/2026
+Mahmut (Taib) Topalli 
+1003115468
+01706-0,01707-0
+Greme
+
+008/2026
+01703-1
+Mahmut (Taib) Topalli 
+1003115468
+Greme
+
+
+```
